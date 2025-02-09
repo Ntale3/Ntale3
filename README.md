@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently learning TypeScript<br>working both as a front and backend dev 
+
 
 
 ## 🌐 Socials:
