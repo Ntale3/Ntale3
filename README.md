@@ -15,7 +15,3 @@ Contributed documentation & changeset: [withastro/astro#15049](https://github.co
 <!-- Optional compact one-liner -->
 > Contributor to withastro/astro and withastro/docs — see merged PRs: [#15049](https://github.com/withastro/astro/pull/15049), [#12808](https://github.com/withastro/docs/pull/12808)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ntale3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ntale3&limit=5&theme=dark&combine_all_yearly_contributions=true)
