@@ -1,4 +1,3 @@
-[![](https://komarev.com/ghpvc/?username=Ntale3&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nt413_003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ntale-swamadu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swamaduntale98@gmail.com) 
 
@@ -9,10 +8,6 @@
 Paste this snippet into your GitHub profile README (README.md).
 Badges use shields.io and link to the merged PRs as proof.
 -->
-
-<!-- Contributor badges -->
-[![Contributor to withastro/astro](https://img.shields.io/badge/contributor-withastro%2Fastro-brightgreen?style=for-the-badge&logo=github)](https://github.com/withastro/astro/pull/15049)
-[![Contributor to withastro/docs](https://img.shields.io/badge/contributor-withastro%2Fdocs-blue?style=for-the-badge&logo=github)](https://github.com/withastro/docs/pull/12808)
 
 <!-- Short proof line -->
 Contributed documentation & changeset: [withastro/astro#15049](https://github.com/withastro/astro/pull/15049), [withastro/docs#12808](https://github.com/withastro/docs/pull/12808)
